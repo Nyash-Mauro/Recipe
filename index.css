@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(227, 248, 248);
+}
+header{
+    color: rgb(252, 31, 31);
+    font-size: 55px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    border: 2px solid rgb(238, 67, 15);
+    padding: 50 50px;
+}
+li{
+    width: 300px;
+    border: 1px solid rgb(96, 96, 250);
+    padding: 50px;
+    margin: 20px;
+  }
+  .img{
+      float: right;
+      clear: left;
+  }
+  h1{
+      text-decoration: underline;
+  }
